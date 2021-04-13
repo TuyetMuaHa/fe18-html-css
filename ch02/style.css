@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 16px;
+}
+#link {
+    list-style: none;
+
+}
+#copyright {
+    font-size: 20px;
+}
+.base_color {
+    color: blue;
+}
