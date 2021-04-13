@@ -1,0 +1,21 @@
+header {
+    float: left;
+    text-align: center;
+}
+
+header img {
+    padding-right: 800px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 760px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.conten img {
+    padding: 20px 0px;
+}
